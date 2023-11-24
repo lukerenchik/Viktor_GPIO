@@ -15,8 +15,8 @@ piGnome = "/home/lukerenchik/Documents/AIDev_Luke/gnomes/ViktorTest.gnome"
 macSummarized = '/Users/user/Documents/AIDev_Luke_WD/gnomes/SummarizedConversations.gnome'
 nlp = spacy.load("en_core_web_lg")
 voiceID = "a0jAm3ze3RlUbJTTOd5C"
-openAIKey = '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'
-elevenLabsKey = 'f8075f12ddb1ca614af26a0b423269d1'
+openAIKey = 'OpenAI Key Here'
+elevenLabsKey = 'Eleven Lab Key Here'
 
 set_api_key(elevenLabsKey)
 

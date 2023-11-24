@@ -10,8 +10,8 @@ import openai
 import GnomeInterpreter
 from voice_to_text import VoiceRecord
 
-openAIKey = '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'
-elevenLabsKey = 'f8075f12ddb1ca614af26a0b423269d1'
+openAIKey = 'openAI Key goes here'
+elevenLabsKey = 'ElevenLabs Key Here'
 
 class Imprint():
 

@@ -4,8 +4,8 @@ import wave
 from pydub import AudioSegment
 import os
 
-openAIKey = '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'
-elevenLabsKey = 'f8075f12ddb1ca614af26a0b423269d1'
+openAIKey = 'OpenAI Key Here'
+elevenLabsKey = 'Eleven Labs Key Here'
 
 
 class VoiceRecord:
