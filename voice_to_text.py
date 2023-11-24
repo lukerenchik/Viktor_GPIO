@@ -55,7 +55,7 @@ class VoiceRecord:
 
 
 if __name__ == "__main__":
-    openAIKey = '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'
+    openAIKey = 'OpenAI Key Here'
 
     voice_recorder = VoiceRecord(openAIKey)
     voice_recorder.record_audio()
